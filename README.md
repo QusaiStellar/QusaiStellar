@@ -8,4 +8,4 @@ I am currently working as a design engineer at the Minsk Motor Plant <img width=
 
 At the moment I am absorbed in programming 👨‍💻
 
-![image](https://user-images.githubusercontent.com/97097224/178484998-6c54ccbe-b594-48fd-ab7d-b8b10541db5d.png)
+https://www.codewars.com/users/QusaiStellar/badges/large
